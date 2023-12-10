@@ -1,0 +1,4 @@
+Tooltip_FR = {
+	Tooltip_WoodenChevalDeFrise = "Un cheval de frise en bois conçu pour blesser les zombies",
+	Tooltip_MetalChevalDeFrise = "Un cheval de frise en métal conçu pour blesser les zombies",
+}
