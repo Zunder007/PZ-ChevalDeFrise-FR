@@ -1,0 +1,5 @@
+ContextMenu_FR = {
+  ContextMenu_Defenses = "Défense",
+  ContextMenu_WoodenChevalDeFrise = "Cheval de frise en bois",
+  ContextMenu_MetalChevalDeFrise = "Cheval de frise en métal",
+}
